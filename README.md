@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Avery</h1>
-<h3 align="center">I'm a CS + Cognitive Science Student at UC Berkeley.</h3>
+<h1 align="left">Hi 👋, I'm Avery</h1>
+<h3 align="left">I'm a CS + Cognitive Science Student at UC Berkeley.
+Most of my repos are not public, due to academic or employment restrictions.</h3>
+
+<h5 align="left">To learn more or chat, please reach out at averychen@berkeley.edu</h5>
+
+
 
 
 
